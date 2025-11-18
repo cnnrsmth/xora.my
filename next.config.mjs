@@ -1,12 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  output: "export",
   images: {
-    unoptimized: true,
+    unoptimized: true, // Required for static export
   },
-}
+  // basePath: '/xora.my', // Uncomment if your repo isn't at root domain
+};
 
-export default nextConfig
+export default nextConfig;
