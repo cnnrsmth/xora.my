@@ -6,6 +6,7 @@ pure html/css portfolio site for github pages
 
 1. create a new github repository
 2. upload these files to the repository:
+
    - index.html
    - styles.css
    - images/ folder (with all images)
@@ -19,18 +20,18 @@ pure html/css portfolio site for github pages
 
 your site will be live at: `https://yourusername.github.io/repository-name/`
 
-## file structure
+## file structure 123
 
 \`\`\`
 /
-├── index.html          # main page
-├── styles.css          # all styling
+├── index.html # main page
+├── styles.css # all styling
 ├── images/
-│   ├── thickr-logo.png
-│   ├── thickr-mockup.jpg
-│   ├── knowledge-vault-logo.png
-│   └── knowledge-vault-mockup.jpg
-└── README.md           # this file
+│ ├── thickr-logo.png
+│ ├── thickr-mockup.jpg
+│ ├── knowledge-vault-logo.png
+│ └── knowledge-vault-mockup.jpg
+└── README.md # this file
 \`\`\`
 
 ## customization
